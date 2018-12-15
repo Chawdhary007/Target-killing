@@ -11,7 +11,7 @@ im not responsible of any missuse
 4-pip2 install --upgrade pip
 5-pip2 install mechanize
 6-pkg install git
-7-https://github.com/Chawdhary007/Target-killing
+7-git clone https://github.com/Chawdhary007/Target-killing
 8-cd Target-killing
 9-chmod +x T-killing.py
 10-python2 T-killing.py
